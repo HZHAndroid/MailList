@@ -1,0 +1,38 @@
+[
+  {
+    "title": "研发",
+    "subTitle": "框架研发",
+    "backgroundColor": "#90BFFF",
+    "tag": "研发"
+  },
+  {
+    "title": "研发",
+    "subTitle": "BU研发",
+    "backgroundColor": "#FF78E7",
+    "tag": "研发"
+  },
+  {
+    "title": "产品",
+    "subTitle": "公共产品",
+    "backgroundColor": "#FFB03C",
+    "tag": "产品"
+  },
+  {
+    "title": "产品",
+    "subTitle": "Bu产品",
+    "backgroundColor": "#64FF",
+    "tag": "产品"
+  },
+  {
+    "title": "产品",
+    "subTitle": "启明星",
+    "backgroundColor": "#0083FF",
+    "tag": "产品"
+  },
+  {
+    "title": "项目",
+    "subTitle": "项目管理",
+    "backgroundColor": "#9878FF",
+    "tag": "项目"
+  }
+]

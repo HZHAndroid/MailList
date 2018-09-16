@@ -1,0 +1,37 @@
+[
+  {
+    "title": "修改密码",
+    "color": "#90BFFF",
+    "isShowTopPlaceView": true,
+    "isShowBottomLine": true,
+    "isShowRightArrow": true
+  },
+  {
+    "title": "添加联系人",
+    "color": "#FF78E7",
+    "isShowTopPlaceView": false,
+    "isShowBottomLine": true,
+    "isShowRightArrow": true
+  },
+  {
+    "title": "删除联系人",
+    "color": "#FFB03C",
+    "isShowTopPlaceView": false,
+    "isShowBottomLine": true,
+    "isShowRightArrow": true
+  },
+  {
+    "title": "发布公告",
+    "color": "#64FF",
+    "isShowTopPlaceView": false,
+    "isShowBottomLine": false,
+    "isShowRightArrow": true
+  },
+  {
+    "title": "退出登录",
+    "color": "#0083FF",
+    "isShowTopPlaceView": true,
+    "isShowBottomLine": false,
+    "isShowRightArrow": false
+  }
+]
